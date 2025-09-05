@@ -1,4 +1,4 @@
-const { response } = require("express")
+
 
 let inp=document.getElementById('inp')
 let btn=document.getElementById('btn')
