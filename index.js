@@ -4,6 +4,7 @@ let inp=document.getElementById('inp')
 let btn=document.getElementById('btn')
 let check=document.getElementById('check')
 let dv=document.getElementById('dv')
+let anes="anes"
 const euro=270
 //events
 //loclastorage VS sessionStorage
