@@ -5,6 +5,7 @@ let btn=document.getElementById('btn')
 let check=document.getElementById('check')
 let dv=document.getElementById('dv')
 const euro=270
+let v=10
 //events
 //loclastorage VS sessionStorage
 window.onload=async()=>{
