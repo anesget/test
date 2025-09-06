@@ -15,4 +15,5 @@ catch(error){
 }
 }
 fun()
+console.log("anes bcn")
 //gotlak 3afsa ma3rafe machi lahdia tathagag wla la
